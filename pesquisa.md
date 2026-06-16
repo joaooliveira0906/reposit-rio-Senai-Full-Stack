@@ -21,7 +21,10 @@
 
 10:**ue é o terminal?** É uma ferramenta para executar comandos no computador.
 
-11:**serve o comando node arquivo. Serve para finalizar um arquivo javascript usando o node.js. que sinalizar qual é o arquivo.
+11:**Para que serve o comando node arquivo.js?**
+Serve para executar um arquivo JavaScript usando o Node.js.
+O que é uma variável?
+
 
 **12que é uma variável?** Ele é um espaço usado para armazenar os dados.
 
