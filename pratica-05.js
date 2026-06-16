@@ -5,4 +5,4 @@ if(idade>=18) {
 }else{
     console.log("menor de idade.");
 }
-}
+
