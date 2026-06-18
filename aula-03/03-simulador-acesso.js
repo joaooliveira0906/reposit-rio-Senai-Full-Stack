@@ -15,7 +15,7 @@ if (bloqueado) {
     console.log("Acesso negado.");
 }
 
-console.log'Idade:', idade);
+console.log('Idade:', idade);
 console.log('Tem responsável:', temResponsavel);
 console.log('Bloqueado:', bloqueado);
 console.log('Tem cadastro:', temCadastro);
