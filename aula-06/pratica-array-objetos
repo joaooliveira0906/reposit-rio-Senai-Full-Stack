@@ -1,0 +1,38 @@
+let alunos = [
+    {
+        nome: "João",
+        idade: 18,
+        curso: "Informática"
+    },
+    {
+        nome: "Maria",
+        idade: 19,
+        curso: "Administração"
+    },
+    {
+        nome: "Pedro",
+        idade: 17,
+        curso: "Mecânica"
+    }
+];
+
+for (let i = 0; i < alunos.length; i++) {
+    console.log("Nome:", alunos[i].nome);
+    console.log("Idade:", alunos[i].idade);
+}
+
+
+alunos.forEach(aluno => {
+    console.log(
+        "Nome:", aluno.nome,
+        "| Idade:", aluno.idade,
+        "| Curso:", aluno.curso
+    );
+});
+
+
+alunos[1].idade = 20;
+
+
+console.log("Dados atualizados do segundo aluno:");
+console.log(alunos[1]);
