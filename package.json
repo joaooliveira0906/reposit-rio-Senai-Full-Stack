@@ -1,0 +1,26 @@
+{
+  "name": "reposit-rio-senai-full-stack",
+  "version": "1.0.0",
+  "description": "**turma:** programador Full Stack - Senai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaooliveira0906/reposit-rio-Senai-Full-Stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/joaooliveira0906/reposit-rio-Senai-Full-Stack/issues"
+  },
+  "homepage": "https://github.com/joaooliveira0906/reposit-rio-Senai-Full-Stack#readme",
+  "devDependencies": {
+    "@types/node": "^26.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
